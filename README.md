@@ -42,6 +42,7 @@ This project uses the following external libraries:
 ## Project Information
 
 **Members:** Ardiansyah, Wildan Owais Al Bukhari
+
 **Semester:** May 2026
 
 ## Project Demo
