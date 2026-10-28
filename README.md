@@ -31,3 +31,10 @@ The system simulates a manufacturing production line by tracking accepted and re
 The project demonstrates how a microcontroller can be used to monitor and control a simplified manufacturing process. Operator inputs are used to simulate product completion and rejection, while the system processes and displays production data in real time.
 
 The project was developed as part of a **Microprocessor & Computer Architecture** project focused on applying embedded systems concepts to a smart manufacturing scenario.
+
+## External Libraries
+
+This project uses the following external libraries:
+
+- [mbed-os Library](https://github.com/ARMmbed/mbed-os) — used for LCD display control.
+- [Text LCD Library](https://github.com/PelionIoT/TextLCD/) — used for 7-segment display control.
