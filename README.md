@@ -39,6 +39,11 @@ This project uses the following external libraries:
 - [mbed-os Library](https://github.com/ARMmbed/mbed-os) — used for LCD display control.
 - [Text LCD Library](https://github.com/PelionIoT/TextLCD/) — used for 7-segment display control.
 
+## Project Information
+
+**Members:** Ardiansyah, Wildan Owais Al Bukhari
+**Semester:** May 2026
+
 ## Project Demo
 
 ▶️ [Project Demo](https://youtu.be/wEvm1UvAUZM)
